@@ -1,6 +1,7 @@
 # TobiiPreprocessing
 
 ## Eye-Tracking Data Preprocessing Pipeline
+This preprocessing was designed for raw CSV-format data obtained with Tobii Pro Spark. It is used in pipelines developed under the [Trust-ME](https://dis.ijs.si/trust-me/) project.
 
 ### 1. **Raw Data Structure**
 The raw data consists of (55 x ~12MB) TSV files from Tobii eye trackers with the following key columns:
